@@ -35,5 +35,14 @@ Key points:
 - **JavaScript** – Task functionality and interactivity
 
 ---
+📬 Connect With Me
+Tanmay Margaj
+🔗 [LinkedIn](https://www.linkedin.com/in/tanmay-margaj-5598542bb)
+📧 tanmaymargaj35@gmail.com
+---
+
+## 🏷️ Tags
+
+#ToDoApp #TaskManager #JavaScriptProject #WebDevelopment #HTML #CSS #BeginnerFriendly #ProductivityApp #FrontendProject #VanillaJS
 
 
