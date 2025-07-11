@@ -1,48 +1,54 @@
-# 📝 To-Do List App
+📝 To-Do List Web App  
+Personal Project
 
-A simple and interactive **To-Do List** web application built using **HTML**, **CSS**, and **JavaScript**. This app allows users to manage and track their daily tasks efficiently in a minimal and intuitive interface.
+📌 Overview  
+This is a personal web development project where I built a responsive and interactive **To-Do List App** using **HTML**, **CSS**, and **JavaScript**.  
+The app allows users to efficiently manage their daily tasks with a clean interface and real-time interactivity.
 
-## 🔗 Live Demo
+🎯 Objectives  
+- Build a simple and functional to-do app for daily task tracking  
+- Learn and apply core web technologies: HTML, CSS, JavaScript  
+- Practice DOM manipulation and event handling  
+- Focus on clean UI/UX for better usability
 
+🧠 Features  
+- Add new tasks with a single click  
+- Mark tasks as completed  
+- Remove tasks from the list  
+- Responsive and intuitive user interface  
+- Real-time interaction without page reload
+
+🛠️ Tools & Technologies  
+- HTML5  
+- CSS3  
+- JavaScript  
+- Visual Studio Code  
+- Git & GitHub
+
+🚀 How It Works  
+1. User types a task into the input box  
+2. Clicking the **Add** button appends it to the task list  
+3. Clicking a task toggles its completed state  
+4. Tasks can be removed (if implemented in the script)  
+5. All changes reflect instantly on the UI
+
+🔗 Live Demo  
 👉 [Live Demo](#)  
 
-## ℹ️ About the Project
+✅ Status  
+✔️ Project Completed – Personal project built to strengthen front-end development skills
 
-This To-Do List app is designed for students, beginners, and anyone looking to practice DOM manipulation and front-end logic. The goal is to help users stay organized by writing down tasks, checking them off when completed, and maintaining a clean and focused workspace.
+📚 Learning Outcomes  
+- Strengthened knowledge of core HTML, CSS, and JavaScript  
+- Learned how to dynamically manipulate DOM elements  
+- Gained hands-on experience with event-driven UI logic  
+- Improved understanding of responsive design and layout building
 
-Key points:
-- It dynamically updates the task list without reloading the page.
-- Users can mark tasks as complete by simply clicking on them.
-- The design is clean and minimal, making it easy to use and visually appealing.
-- This project serves as a great starting point for learning JavaScript event handling and basic DOM operations.
+📬 Connect With Me  
+**Tanmay Margaj**  
+🔗 [LinkedIn](https://www.linkedin.com/in/tanmay-margaj-5598542bb)  
+💻 [GitHub Profile](https://github.com/TanmayMargaj35)  
+📧 tanmaymargaj35@gmail.com  
 
----
-
-## 🚀 Features
-
-- ✅ Add new tasks with a single click
-- ✅ Mark tasks as completed
-- ✅ Remove tasks easily
-- ✅ Fully responsive and clean UI
-- ✅ Beginner-friendly codebase
-
----
-
-## 📦 Technologies Used
-
-- **HTML5** – Structure of the app
-- **CSS3** – Styling and layout
-- **JavaScript** – Task functionality and interactivity
-
----
-📬 Connect With Me
-Tanmay Margaj
-🔗 [LinkedIn](https://www.linkedin.com/in/tanmay-margaj-5598542bb)
-📧 tanmaymargaj35@gmail.com
----
-
-## 🏷️ Tags
-
-#ToDoApp #TaskManager #JavaScriptProject #WebDevelopment #HTML #CSS #BeginnerFriendly #ProductivityApp #FrontendProject #VanillaJS
-
-
+🏷️ Tags  
+#ToDoList #WebApp #FrontendProject #JavaScript #HTML #CSS #ProductivityApp #DOMManipulation #PersonalProject
