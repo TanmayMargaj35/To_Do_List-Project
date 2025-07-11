@@ -47,8 +47,7 @@ The app allows users to efficiently manage their daily tasks with a clean interf
 📬 Connect With Me  
 **Tanmay Margaj**  
 🔗 [LinkedIn](https://www.linkedin.com/in/tanmay-margaj-5598542bb)  
-💻 [GitHub Profile](https://github.com/TanmayMargaj35)  
-📧 tanmaymargaj35@gmail.com  
+💻 [GitHub Profile](https://github.com/TanmayMargaj35)   
 
 🏷️ Tags  
 #ToDoList #WebApp #FrontendProject #JavaScript #HTML #CSS #ProductivityApp #DOMManipulation #PersonalProject
