@@ -1,53 +1,37 @@
-📝 To-Do List Web App  
-Personal Project
+# ✅ To-Do List 🗂️ – Task Management Web App
 
-📌 Overview  
-This is a personal web development project where I built a responsive and interactive **To-Do List App** using **HTML**, **CSS**, and **JavaScript**.  
-The app allows users to efficiently manage their daily tasks with a clean interface and real-time interactivity.
+📌 **Overview**
 
-🎯 Objectives  
-- Build a simple and functional to-do app for daily task tracking  
-- Learn and apply core web technologies: HTML, CSS, JavaScript  
-- Practice DOM manipulation and event handling  
-- Focus on clean UI/UX for better usability
+This is a simple and efficient to-do list app built using HTML, CSS, and JavaScript. It allows users to add, delete, and manage their tasks directly in the browser.
 
-🧠 Features  
-- Add new tasks with a single click  
-- Mark tasks as completed  
-- Remove tasks from the list  
-- Responsive and intuitive user interface  
-- Real-time interaction without page reload
+The primary goal of this project was to practice DOM manipulation and basic CRUD operations in JavaScript, making it a strong introduction to frontend interactivity.
 
-🛠️ Tools & Technologies  
-- HTML5  
-- CSS3  
-- JavaScript  
-- Visual Studio Code  
-- Git & GitHub
+---
 
-🚀 How It Works  
-1. User types a task into the input box  
-2. Clicking the **Add** button appends it to the task list  
-3. Clicking a task toggles its completed state  
-4. Tasks can be removed (if implemented in the script)  
-5. All changes reflect instantly on the UI
+## ⚙️ Features
 
-🔗 Live Demo  
-👉 [Live Demo](#)  
+- Add new tasks
+- Remove tasks individually
+- Task completion toggle
+- Clean and minimal UI
 
-✅ Status  
-✔️ Project Completed – Personal project built to strengthen front-end development skills
+---
 
-📚 Learning Outcomes  
-- Strengthened knowledge of core HTML, CSS, and JavaScript  
-- Learned how to dynamically manipulate DOM elements  
-- Gained hands-on experience with event-driven UI logic  
-- Improved understanding of responsive design and layout building
+## 🛠️ Built With
 
-📬 Connect With Me  
-**Tanmay Margaj**  
-🔗 [LinkedIn](https://www.linkedin.com/in/tanmay-margaj-5598542bb)  
-💻 [GitHub Profile](https://github.com/TanmayMargaj35)   
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
-🏷️ Tags  
-#ToDoList #WebApp #FrontendProject #JavaScript #HTML #CSS #ProductivityApp #DOMManipulation #PersonalProject
+---
+
+## 🌐 Live Demo
+
+🔗 [Live Site](#)
+
+---
+
+## 🙋‍♂️ Connect with Me
+
+- 🔗 [GitHub](https://github.com/TanmayMargaj35)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tanmay-margaj-5598542bb)
